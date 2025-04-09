@@ -59,9 +59,7 @@ Below are examples of ground truth masks compared to the predicted masks:
 
 | Ground Truth Mask | Predicted Mask |
 |-------------------|----------------|
-| ![Ground Truth](assets/gt1.jpg) | ![Prediction](assets/pred1.jpg) |
-| ![Ground Truth](assets/gt2.jpg) | ![Prediction](assets/pred2.jpg) |
-| ![Ground Truth](assets/gt3.jpg) | ![Prediction](assets/pred3.jpg) |
+| ![Ground Truth](truth_11.png) | ![Prediction](pred_11.png) |
 
 > 🧠 The predicted masks align closely with the ground truth after only 5 epochs, demonstrating strong performance of the U-Net model.
 
